@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="tv cultura" tvg-logo="" group-title="canal",tv cultura
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-name="iki" tvg-logo="" group-title="series",iki
-https://t.me/c/2360559197/21
+#EXTINF:-1 tvg-name="teste" tvg-logo="" group-title="serie",teste
+https://ok.ru/video/9122880555625?fromTime=1
